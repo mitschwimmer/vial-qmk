@@ -4,4 +4,4 @@ LTO_ENABLE = yes
 QMK_SETTINGS = no
 CONSOLE_ENABLE = no
 COMMAND_ENABLE = no
-
+DEBOUNCE_TYPE = sym_defer_pk

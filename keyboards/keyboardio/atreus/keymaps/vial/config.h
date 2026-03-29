@@ -8,4 +8,5 @@
 #define VIAL_UNLOCK_COMBO_COLS { 0, 1, 7, 10, 11}
 
 #define DYNAMIC_KEYMAP_LAYER_COUNT 4
- 
+#define DEBOUNCE 8
+
